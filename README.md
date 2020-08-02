@@ -1,3 +1,2 @@
 # Game
-بازی هوپ
-بازی سنگ کاغذ قیچی
+Rock Paper Scissors
