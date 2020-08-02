@@ -2,7 +2,7 @@ from random import randint
 CoputerPoint = 0
 UserPoint = 0
 for  i in range(10):
-    inp = input('ENTER Rock Paper Scissors :')
+    inp = input('ENTER Rock(R|r) Paper(P|p) Scissors(S|s) :')
     if inp == "R" or inp == "r":
         inp = 1
     if inp == "P" or inp == "p":
